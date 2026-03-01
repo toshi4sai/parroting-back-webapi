@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: [http]",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/src/src.csproj",
+      "launchConfigurationId": "TargetFramework=;http"
+    }
+  ]
+}
